@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TravisRyanApp</string>
+    <string name="title_activity_display_menu">DisplayMenu</string>
+</resources>
